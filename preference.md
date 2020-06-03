@@ -1,5 +1,5 @@
 # Preference
-![Preference](./images/preference.jpg)
+![Imgur](https://i.imgur.com/7PSo2fR.jpg)
 
 ### SAT Installation Path
 It' mainly for Linux User, without setting it in Linux, sublender will not be able

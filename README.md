@@ -1,7 +1,7 @@
 # Sublender Doc
 
 * [Installation](./installation.md)
-* [Setting Panel](./preference.md)
+* [Preference](./preference.md)
 * [Sublender Panel](./sublender.md)
 * [Material & Workflow](./workflow.md)
 

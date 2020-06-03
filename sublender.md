@@ -1,7 +1,7 @@
 # Sublender Panel
 
 ### Init
-![Init](./images/panel1.jpg) \
+![Init](https://i.imgur.com/gCztcZa.jpg) \
 As it says, it's best to save your blender project first, or at least
 before import any sbsar. Sublender will generate texture in a folder at 
 the same directory of your blender file
@@ -10,7 +10,7 @@ the same directory of your blender file
 Click `Import Sbsar` after init, after selection, sublender will display 
 a dialog, click ok to import the graph.
 
-![Dialog](./images/dialog.jpg)
+![Dialog](https://i.imgur.com/MK072Tz.jpg)
 * Fake User \
 by default the `Fake User` toggle is enabled, it will prevent blender
 remove the material if the material is not used at anywhere
@@ -19,14 +19,14 @@ You can choose a template for your instance, current only `PBR Metallic/Roughnes
 
 ### Panel
 
-![Panel](./images/details.jpg)
+![Panel](https://i.imgur.com/WWpyxI4.jpg)
 
 There is not much to talk about it actually. 
 * Follow Selection \
 with follow selection enabled, you can select an object, the the sublender will 
 find the sbs material it's using, this will speed up your work.
 
-![Follow Selection](./images/followselection.gif)
+![Follow Selection](https://i.imgur.com/g52hTRZ.gifv)
 
 * Workflow
 you can updathe the workflow here, and click the button next to it, it will re-generate
