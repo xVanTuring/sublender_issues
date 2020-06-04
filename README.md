@@ -5,7 +5,7 @@
 * [Sublender Panel](./sublender.md)
 * [Material & Workflow](./workflow.md)
 
-### Unknown issues
+### Known issues
 * undo crash when in eevee preview mode with Auto Live Update enabled(caused by blender's undo system)
 ### Q&A
 * Q: where is image texture stored?
