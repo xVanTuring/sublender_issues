@@ -6,9 +6,8 @@
 > `C:\Program Files\Allegorithmic\Substance Automation Toolkit\Python API\Pysbs-2020.1.1.zip`
 3. Go to your blender installation folder
 > `C:\Program Files\Blender Foundation\Blender 2.82\2.82\python\bin`
-4. open a cmd or powershell and execute
+4. open a cmd or powershell and execute(**best with admin permission for blender 2.83**)
 > `.\python.exe -m pip install C:\Program Files\Allegorithmic\Substance Automation Toolkit\Python API\Pysbs-2020.1.1.zip`(replace the filepath with your own)
-
 
 ## Sublender.zip
 1. Open Blender -> Edit -> Preference -> Add-On -> Install -> Select sublender.zip and install
