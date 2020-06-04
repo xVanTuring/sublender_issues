@@ -34,3 +34,13 @@ every thing.
 
 * Live Update
 With Live Update enabled, any changes in input parameters will trigger texture rendering except(output). **WARNING: do not undo! do not undo! do not undo!**
+
+* Output(Subpanel)
+
+![ Output Subpanel](https://i.imgur.com/kUA93RQ.jpg)
+
+By default, after selecting a workflow, all outputs defined in that workflow will be enabled,
+if you use a custom workflow, all outputs will be enabled.
+
+After texture rendering, all images will be loaded into blender with name format "material_name+_usage"
+you can enable a disabled output, then use it in your material
