@@ -16,9 +16,6 @@
 ![Convert](https://i.imgur.com/yem5RkV.png)
 
 
-* Q: How to duplicate a substance instance
-> A: simply duplicate the material in you material tab, change the name and then click the 
-> `Apply workflow` button.
 * Q: where is image texture stored?
 > A: If you saved you blender file, sublender will create a folder named
 with name of your blender file in the same directory of your blender file, otherwise it will save image texture to a temp folder provided by system
