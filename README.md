@@ -10,7 +10,7 @@
 ### Q&A
 * Normal Format
 > By default substance will generate Normal Map with DirectX Format, which is not compatible with Blender(OpenGL Format) Here is two thing you can do:
-1. Change Normal Format Option Provided by sbsar
+1. Change Normal Format Option Provided by sbsar 
 ![Normal Format](https://i.imgur.com/CHZ2RAj.png)
 2. manually convert to OpenGL from DirectX 
 ![Convert](https://i.imgur.com/yem5RkV.png)
