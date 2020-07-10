@@ -17,7 +17,7 @@ with administrator privileges.
     > please replace the path with your own
 4. Now install pysbs-sbsarlite.zip like any other add-ons
 
-5. Click the folder button in Sbsrender Path to select `1sbsrender.exe` in your Substance Designer installation folder, please turn off the Relative Path option.
+5. Click the folder button in Sbsrender Path to select the `sbsrender.exe` in your Substance Designer installation folder, please turn off the Relative Path option.
 ![select](./images/select.png)
 6. Please Enjoy!
 
