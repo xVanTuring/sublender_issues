@@ -1,5 +1,5 @@
 # Installation
-# Version v1.0.4 sbsar-lite
+# Version v1.0.4+ (sbsar-lite)
 ## Requirement 
 * Substance Designer (activation is now required)
 * Internet
@@ -12,7 +12,7 @@ with administrator privileges.
 3. Type following commands
     ``` ps
     cd "C:\Program Files\Blender Foundation\Blender 2.83\2.83\python\bin"
-    .\python.exe -m pip install py7zr
+    .\python.exe -m pip install py7zr -U
     ```
     > please replace the path with your own
 4. Now install pysbs-sbsarlite.zip like any other add-ons
