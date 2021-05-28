@@ -1,7 +1,7 @@
 [
     {
         "version": "2.0.2",
-        "changelog": "1. Initial support for (auto) update checking. 2. Fix compability for blender 2.93. 3. Other fixes",
+        "changelog": "1. Initial support for (auto) update checking.\n 2. Fix compability for blender 2.93.\n 3. Other small fixes.",
         "releasedate": "2021-5-15"
     }
 ]
